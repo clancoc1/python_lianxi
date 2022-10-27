@@ -16,3 +16,5 @@ class my_process(Process):
 if __name__=="__main__":
     p=my_process("线程1")
     p.start()
+
+    print("jjjjjjjjjjjjjj")
